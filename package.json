@@ -1,0 +1,17 @@
+{
+  "name": "@shadowcms/logger",
+  "version": "2.1.5",
+  "main": "logger.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.10.4",
+    "@types/pino": "^6.3.11",
+    "@types/pino-pretty": "^4.7.1",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "micro-memoize": "^4.0.9",
+    "pino": "^6.13.3",
+    "pino-pretty": "^7.0.1"
+  }
+}
